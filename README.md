@@ -4,7 +4,7 @@ Após baixar este pacote, siga os passos abaixo para integrá-lo ao seu projeto 
 
 1. **Baixe ou clone este repositório:**
     ```bash
-    git clone <url-do-repo>
+    git clone https://github.com/MarcondesJuniorDev/docker00
     cd docker00
     ```
 
@@ -32,7 +32,7 @@ Após baixar este pacote, siga os passos abaixo para integrá-lo ao seu projeto 
     ```
 
 5. **Acesse sua aplicação Laravel:**
-    - Abra `http://localhost:8080` no navegador (ou a porta configurada).
+    - Abra `http://localhost:8000` no navegador (ou a porta configurada).
 
 ### Observações Importantes
 
